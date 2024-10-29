@@ -10,7 +10,7 @@ This project predicts the direction of cryptocurrency price movement using a com
 - **5. Predictions**: Make final predictions and prepare for submission.
 
 ## How to Run
-1. Clone the repository: `git clone <repository-URL>`
+1. Clone the repository: `git clone https://github.com/JoyAdike/crypto-price-direction-prediction.git`
 2. Navigate to the project directory: `cd crypto-price-direction-prediction`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Open the Jupyter Notebook and run the cells sequentially.
